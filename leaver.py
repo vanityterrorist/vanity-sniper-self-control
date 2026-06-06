@@ -50,7 +50,7 @@ def print_banner():
 ║                                                                                      ║
 ║     {Fore.YELLOW}Vanityterrorist: Hairo{Fore.CYAN}                            ║
 ║                                                                                      ║
-║     {Fore.GREEN}📞 Discord: stressource | discord.gg/mo{Fore.CYAN}                                      ║
+║     {Fore.GREEN}📞 Discord: kindness_90210 | discord.gg/efsane{Fore.CYAN}                                      ║
 ║                                                                                      ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
